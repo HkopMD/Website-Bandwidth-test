@@ -1,6 +1,14 @@
 # Website-Bandwidth-test
 
 
-Credit 
+## How to use on windwos
+
+
+
+
+
+
+
+### Credit 
 
 https://lukesmith.xyz
