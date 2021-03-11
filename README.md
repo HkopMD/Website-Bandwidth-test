@@ -1,4 +1,7 @@
-# Website-Bandwidth-test
+# Download
+https://github.com/HkopMD/Website-Bandwidth-test/archive/main.zip
+
+
 
 
 ## How to use on windwos
