@@ -11,7 +11,9 @@ Coming soon
 
 ## How to use on Linux and MacOs
 
+Sorry for the shit edinting but openshut its not that grate 
 
+[How to video](http://example.com)
 
 
 ### Credit 
