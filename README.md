@@ -6,7 +6,7 @@
 
 ### How to use on Windwos
 
-Coming soon if someone can help make a commit with a PowerShell/bash would it bee cool
+Coming soon. If someone can help make it.Pls make a commit with a PowerShell/Cmd version
 
 <br>
 
