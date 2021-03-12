@@ -6,11 +6,11 @@
 
 ### How to use on Windwos
 
-Coming soon
+[Coming soon if someone can help make a commit with a PowerShell/bash would it bee cool](https://github.com/HkopMD/Website-Bandwidth-test/issues)
 
 <br>
 
-### How to use on Linux and MacOs
+## How to use on Linux and MacOs
 
 Sorry for the shit edinting but openshut its not that grate 
 
