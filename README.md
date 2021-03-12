@@ -6,7 +6,7 @@
 
 ### How to use on Windwos
 
-[Coming soon if someone can help make a commit with a PowerShell/bash would it bee cool](https://github.com/HkopMD/Website-Bandwidth-test/issues)
+Coming soon if someone can help make a commit with a PowerShell/bash would it bee cool
 
 <br>
 
