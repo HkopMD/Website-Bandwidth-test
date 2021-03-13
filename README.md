@@ -24,4 +24,4 @@ Sorry for the shit edinting but openshut its not that grate
 
 ### Credit 
 
-https://lukesmith.xyz
+[Lukesmith](https://cutt.ly/TzD8ROH)
