@@ -1,4 +1,4 @@
-### [Download](https://github.com/HkopMD/Website-Bandwidth-test/archive/main.zip)
+### [Download](https://cutt.ly/SzD8XwX)
 
 <br>
 <br>
