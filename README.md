@@ -14,7 +14,7 @@ Coming soon. If someone can help make it.Pls make a commit with a PowerShell/Cmd
 
 Sorry for the shit edinting but openshut its not that grate 
 
-#### [How to video](https://hkopmd.github.io/Website-Bandwidth-test/How-to-no-Linux-and-MacOs.mp4)
+#### [How to video](https://cutt.ly/HzD350V)
 
 
 <br>
