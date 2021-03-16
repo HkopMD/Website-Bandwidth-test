@@ -14,7 +14,7 @@ Coming soon. If someone can help make it.Pls make a commit with a PowerShell/Cmd
 
 Sorry for the shit edinting but openshut its not that grate 
 
-#### [How to video](https://cutt.ly/HzD350V)
+#### [How to video](https://cutt.ly/Pz19LPs)
 
 
 <br>
