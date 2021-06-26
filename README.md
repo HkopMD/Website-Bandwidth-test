@@ -14,12 +14,7 @@ Coming soon. If someone can help make it.Pls make a commit with a PowerShell/Cmd
 Sorry for the shit edinting but openshut its not that grate 
 
 #### [How to video](https://cutt.ly/TxE2zRb)
-
-
 <br>
-<br>
-
-
 ### Credit 
 
 [Lukesmith](https://cutt.ly/TzD8ROH)
