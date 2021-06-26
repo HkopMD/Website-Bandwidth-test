@@ -1,7 +1,6 @@
 ### [Download](https://cutt.ly/SzD8XwX)
 
 <br>
-<br>
 
 
 ### How to use on Windwos
@@ -19,8 +18,7 @@ Sorry for the shit edinting but openshut its not that grate
 
 <br>
 <br>
-<br>
-<br>
+
 
 ### Credit 
 
